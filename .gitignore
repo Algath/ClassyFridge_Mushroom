@@ -153,3 +153,7 @@ data/
 **/out/
 **/ckpts/
 
+# baseline
+baselines/runs/
+baselines/closed_set/metadata/
+baselines/closed_set/wandb/
